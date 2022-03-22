@@ -4,7 +4,7 @@
 - 💞️ I’m interested to collaborate on open source projects...
 - 📫 You can ping me at www.fb.com/JaberWiki
 
-![JABER](https://github-readme-stats.vercel.app/api?username=JaberWiki&show_icons=true&theme=github_dark&count_private=true)
+![JABER](https://github-readme-stats.vercel.app/api?username=JaberWiki&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&count_private=true)
 
 <!---
 hmsjaber/JaberWiki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
